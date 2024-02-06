@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.dash-board-container {
+  display: flex;
+  justify-content: center;
+  background-color: #161625;
+  min-height: 100vh;
+}
+.header {
+  display: flex;
+  align-items: center;
+}
+.website-img {
+  width: 70px;
+  height: 70px;
+  margin-right: 10px;
+}
+.heading {
+  color: #2cc6c6;
+  font-family: 'Roboto';
+  font-size: 33px;
+}
+.title {
+  color: #cbd5e1;
+  font-family: 'Roboto';
+  font-size: 28px;
+  font-weight: 450;
+}
+.content-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  width: 80%;
+}

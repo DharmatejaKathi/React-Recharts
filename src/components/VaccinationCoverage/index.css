@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.coverage-heading {
+  color: #cbd5e1;
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+.coverage-container {
+  margin-top: 20px;
+  background-color: #1c1c2b;
+  border-radius: 12px;
+  padding: 8px;
+}
